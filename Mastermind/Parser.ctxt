@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=choice\ isPlayerChoice
+comment0.target=int\ parse(java.lang.String,\ boolean)
+comment1.params=input\ possibleCharacters\ index
+comment1.target=java.util.ArrayList\ parse(java.util.ArrayList,\ java.util.ArrayList,\ int)
+comment2.params=inputPossChars
+comment2.target=java.util.ArrayList\ parse(java.util.ArrayList)
+comment3.params=userInput
+comment3.target=int\ parse(java.lang.String)
+numComments=4
